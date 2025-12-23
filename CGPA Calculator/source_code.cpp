@@ -4,5 +4,8 @@ class CGPA
 {
  private:
   int courses;
-  int 
+  int credithr;
+  int grade;
+  public:
+  
 };
