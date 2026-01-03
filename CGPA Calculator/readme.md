@@ -7,13 +7,14 @@ The program calculates a student's **Grade Point Average (GPA)** and **Cumulativ
 ---
 
 ## 🎯 Objectives
+- Take input for the **number of semester** taken by a student
 - Take input for the **number of courses** taken by a student  
 - Accept **grade** and **credit hours** for each course  
 - Calculate:
   - Total credits  
   - Total grade points (grade × credit hours)  
 - Compute:
-  - Semester GPA  
+  - Semester SCGPA  
   - Overall CGPA  
 - Display:
   - Individual course grades  
@@ -23,7 +24,7 @@ The program calculates a student's **Grade Point Average (GPA)** and **Cumulativ
 
 ## 🛠️ Features 
 - Supports multiple courses  
-- Accurate GPA and CGPA calculation  
+- Accurate SCGPA and CGPA calculation  
 - Displays detailed course-wise information  
 
 ---
@@ -46,3 +47,4 @@ The program calculates a student's **Grade Point Average (GPA)** and **Cumulativ
   - Basic Arithmetic Operations  
 
 ---
+*“This project was created as part of my FY BSc IT learning journey.”*
