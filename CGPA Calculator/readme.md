@@ -21,8 +21,7 @@ The program calculates a student's **Grade Point Average (GPA)** and **Cumulativ
 
 ---
 
-## 🛠️ Features
-- User-friendly console-based interface  
+## 🛠️ Features 
 - Supports multiple courses  
 - Accurate GPA and CGPA calculation  
 - Displays detailed course-wise information  
