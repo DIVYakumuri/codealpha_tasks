@@ -84,7 +84,7 @@ void CGPA::output()
     cout << "Grade :" << grade[i][j] << endl;
     cout << "Credit Hours:" << credithr[i][j] << endl;
   }
-  cout<<"SGPA = "<<scgpa[i]<<endl;
+  cout<<"SCPA = "<<scgpa[i]<<endl;
 }
   cout << "\tCGPA:" << cgpa << endl;
 }
