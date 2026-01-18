@@ -6,7 +6,7 @@ The tasks focus on strengthening core C++ concepts, problem-solving skills, and 
 - **Internship Provider:** CodeAlpha  
 - **Domain:** C++ Programming  
 - **Mode:** Virtual  
-- **Duration:** Internship Period  
+- **Duration:** 20 dec 2025 to 20 jan 2026 
 - **Language Used:** C++
 ---
 ## 📂 Repository Structure
